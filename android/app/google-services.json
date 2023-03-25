@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013266522285",
+    "project_id": "amimilk-c1d34",
+    "storage_bucket": "amimilk-c1d34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013266522285:android:6e9425b52d40f39dafa624",
+        "android_client_info": {
+          "package_name": "com.example.ami_milk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013266522285-vd7d8ql8lk1kaiehumq6uu0v41co2pfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqzXBh0QyqNB5lRVvKevd3jQ80JbwfGYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013266522285-vd7d8ql8lk1kaiehumq6uu0v41co2pfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

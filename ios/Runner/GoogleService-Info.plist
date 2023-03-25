@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1013266522285-em6srcd5mjjhj1ji3mit7221m87l0tgg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1013266522285-em6srcd5mjjhj1ji3mit7221m87l0tgg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAYQgTr0CBxO7sTsTum6TKK6er-cENlEfs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1013266522285</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.amiMilk</string>
+	<key>PROJECT_ID</key>
+	<string>amimilk-c1d34</string>
+	<key>STORAGE_BUCKET</key>
+	<string>amimilk-c1d34.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1013266522285:ios:7b47e84de4a184c9afa624</string>
+</dict>
+</plist>
